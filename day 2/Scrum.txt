@@ -1,0 +1,93 @@
+
+
+1. Agile Methodology – Terms and Meanings
+
+1. Agile
+Agile is a software development methodology that focuses on delivering software in small, manageable parts instead of developing the entire application at once. It encourages teamwork, continuous feedback, flexibility, and quick adaptation to changing requirements.
+
+2. Scrum
+Scrum is an Agile framework used to develop and manage software projects. It divides work into short, fixed time periods called Sprints. Scrum helps teams collaborate, track progress, and deliver working software regularly.
+
+3. Sprint
+A Sprint is a fixed time period of one month or less, commonly 1–2 weeks, during which the Scrum Team works to achieve a specific Sprint Goal. At the end of each Sprint, the team delivers a usable product increment.
+
+4. Iteration
+An iteration is a repeated development cycle in which a team plans, develops, tests, and improves software. Each iteration helps improve the product based on feedback and changing requirements.
+
+5. User Story
+A User Story is a short description of a software feature or requirement written from the user's perspective. It explains what the user wants and why they need it.
+Format: As a [user], I want [feature], so that [benefit].
+Example: As a user, I want to reset my password so that I can recover my account.
+
+6. Epic
+An Epic is a large requirement or feature that cannot usually be completed within a single Sprint. It is divided into multiple smaller User Stories that can be developed and delivered separately.
+Example: User Authentication is an Epic containing Login, Signup, Logout, and Forgot Password stories.
+
+7. Story Point
+A Story Point is a unit used by Agile teams to estimate the relative effort required to complete a User Story. It considers complexity, amount of work, and uncertainty. Teams commonly use Fibonacci numbers such as 1, 2, 3, 5, 8, and 13 for estimation.
+
+8. Acceptance Criteria
+Acceptance Criteria are specific conditions or requirements that a User Story must satisfy to be accepted. They help developers understand the expected functionality and testers verify whether the feature works correctly.
+Example: For a login feature, users must be able to log in with valid credentials and see an error message for invalid credentials.
+
+
+
+2. Scrum Roles and Responsibilities
+1. Product Owner (PO)
+The Product Owner is responsible for maximizing the value of the product developed by the Scrum Team. They manage and prioritize the Product Backlog, clarify requirements, and ensure the team works on the most valuable features.
+Key responsibilities: Define product goals, prioritize requirements, manage the Product Backlog, and communicate with stakeholders.
+
+2. Scrum Master (SM)
+The Scrum Master is responsible for establishing Scrum and helping the team follow Scrum principles and practices. They facilitate Scrum events, coach team members, and help remove obstacles that affect productivity.
+Key responsibilities: Facilitate Scrum events, help resolve blockers, coach the team, and support continuous improvement.
+
+3. Developers
+Developers are Scrum Team members responsible for creating a usable product increment during each Sprint. They plan their work, design solutions, write code, perform testing, fix bugs, and maintain product quality.
+Key responsibilities: Develop features, test functionality, maintain code quality, and deliver working software.
+
+4. Stakeholder
+A Stakeholder is an individual or group interested in or affected by the product. Stakeholders may include customers, business managers, users, and sponsors. They provide requirements, business expectations, and feedback.
+Key responsibilities: Share business needs, provide feedback, review product progress, and support product decisions.
+Note: Stakeholders are important participants but are not one of the three formal Scrum accountabilities (Product Owner, Scrum Master, and Developers).
+
+
+3. Scrum Events and Their Purpose
+1. Sprint Planning
+Sprint Planning is a Scrum event conducted at the beginning of every Sprint. The Scrum Team discusses why the Sprint is valuable, what work can be completed, and how the selected work will be performed.
+Purpose: Define the Sprint Goal, select Product Backlog items, and create a plan for completing the work.
+
+2. Daily Scrum
+Daily Scrum is a 15-minute meeting held every working day during the Sprint. Developers inspect their progress toward the Sprint Goal, discuss ongoing work, and adjust their plan for the next working day.
+Purpose: Improve communication, identify obstacles, track progress, and coordinate development activities.
+
+3. Sprint Review
+Sprint Review is conducted near the end of a Sprint to inspect the product increment and discuss progress with stakeholders. The Scrum Team demonstrates completed functionality, collects feedback, and discusses what should happen next.
+Purpose: Review completed work, gather stakeholder feedback, and adapt the Product Backlog when needed.
+
+4. Sprint Retrospective
+Sprint Retrospective is conducted at the end of the Sprint to evaluate how the team worked together. The team discusses what went well, what problems occurred, and what improvements can be made.
+Purpose: Improve team collaboration, development practices, quality, and overall effectiveness in future Sprints.
+
+5. Sprint Backlog
+The Sprint Backlog is a Scrum artifact that contains the Sprint Goal, selected Product Backlog items, and the plan for delivering them. It is created during Sprint Planning and updated throughout the Sprint by Developers.
+Purpose: Help Developers organize their work, monitor progress, and stay focused on achieving the Sprint Goal.
+
+6. Sprint Goal
+The Sprint Goal is a single objective that the Scrum Team aims to achieve during a Sprint. It provides direction and helps Developers make decisions while working on different tasks.
+Purpose: Keep the team focused on a common objective and provide flexibility in how the work is completed.
+Example: Complete the user login and authentication functionality so users can securely access their accounts.
+
+
+4. DoD – Definition of Done
+Definition
+Definition of Done (DoD) is a formal description of the quality standards that a product increment must meet before it can be considered complete.
+It ensures that the work delivered by Developers meets the agreed quality requirements and is ready for use.
+
+Example – Definition of Done for a Login Feature:
+1. Code development is completed.
+2. Code has been reviewed.
+3. Unit tests are written and passed.
+4. Functional testing is completed successfully.
+5. Critical bugs are resolved.
+6. Required documentation is updated.
+7. The feature meets all applicable quality standards.  
