@@ -1,0 +1,34 @@
+DevOps Life Cycle: Short Notes on All Tools
+	1.	Plan
+		Tools: Jira, Azure Dashboards
+		Jira: A project management tool used to plan tasks, track bugs, assign work, and manage development sprints.
+		Azure Dashboards: Displays project metrics, progress, and key performance indicators (KPIs) in a centralized dashboard.
+	2.	Code
+		Tools: Git, GitHub
+		Git: A version control system that tracks code changes and allows developers to work on different branches.
+		GitHub: A cloud-based platform for hosting Git repositories, collaborating on code, and reviewing changes through pull requests.
+	3.	Build
+		Tools: Maven, Gradle
+		Maven: A Java build automation tool that manages dependencies, compiles code, and packages applications.
+		Gradle: A flexible build automation tool used to compile, test, manage dependencies, and package software.
+	4.	Test
+		Tools: JUnit, Selenium
+		JUnit: A Java testing framework used to write and execute unit tests.
+		Selenium: An automation tool used to test web applications across different browsers.
+	5.	Release
+		Tools: Jenkins, GitHub Actions
+		Jenkins: An automation server used to build, test, and release software through CI/CD pipelines.
+		GitHub Actions: A GitHub feature that automates workflows such as testing, building, and releasing applications based on events.
+	6.	Deploy
+		Tools: Docker, Kubernetes
+		Docker: A platform used to package applications and their dependencies into portable containers.
+		Kubernetes: A container orchestration platform that automates container deployment, scaling, and management.
+	7.	Operate
+		Tool: Ansible
+
+	•	Ansible: An IT automation tool used to configure servers, manage infrastructure, and automate repetitive operational tasks.
+
+	8.	Monitor
+		Tool: Grafana
+
+	•	Grafana: A monitoring and visualization platform used to display metrics, dashboards, and system performance data.
